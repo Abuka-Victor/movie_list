@@ -1,5 +1,4 @@
 import { ChangeEvent, FormEvent, useContext, useEffect, useState } from 'react';
-import { FaSearch } from 'react-icons/fa';
 import { FaPlus } from 'react-icons/fa6';
 import ListCard from './ListCard';
 
